@@ -1,0 +1,124 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  .atoonsteysner {
+    background-image: url(../img/office.png);
+    background-repeat: no-repeat;
+    width: 1440px;
+    height: 1000px;
+  }
+
+  .img {
+    width: 330px;
+    height: 60px;
+    margin-top: 50px;
+    margin-left: 90px;
+  }
+
+  .btn {
+    width: 300px;
+    height: 70px;
+    border-radius: 0;
+    opacity: 60%; 
+    margin-top: 50px; 
+    margin-left: 500px;
+  }
+
+  .navbar {
+    margin-top: 20px;
+
+  }
+
+  .nav-link {
+    color: white;
+    font-size: 22px;
+    margin-top: 10px;
+  }
+
+  
+.contacts {
+    margin-bottom: 50px;
+    margin-right: 40px;
+  }
+
+  .email {
+    margin-bottom: 50px;
+  }
+
+  h1 {
+    color: #FFFFFF;
+    
+  }
+
+  h2 {
+    color: #D1B06B;
+    margin-top: 60px;
+  }
+
+  .group {
+    margin-top: 80px;
+    margin-right: 50px;
+  }
+
+  .btn__get {
+    width: 269px;
+    height: 85px;
+    background: #D1B06B;
+    border-radius: 0px;
+    margin-top: 50px;
+    border: solid 1px #D1B06B;
+  }
+
+   .sec{
+    background: #161D27;
+ }
+
+.image1{
+    background-image: url(../img/image1.png);
+    position: absolute;
+    width: 467px;
+    height: 294px;
+    margin-top: 20px;
+    
+}
+
+ .text1{
+   display: flex;
+   justify-content: center;
+   margin-left: 370px;
+ }
+
+  .vector{
+    width: 95px;
+    display: flex;
+    justify-content: end;
+    margin-left: 490px; 
+    margin-top: 37px;
+
+  }
+
+ .text2{
+   display: flex;
+   justify-content: center;
+   margin-left: 390px;
+ }
+
+
+ .big-text1{
+  color: #FFFFFF;
+   display: flex;
+   justify-content: center;
+   margin-left: 470px;
+   margin-top: 60px;
+ }
+
+ .gg{
+   margin-top: 50px;
+ }
+
+
+
+ 
